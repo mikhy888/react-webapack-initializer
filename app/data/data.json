@@ -1,0 +1,22 @@
+{
+    "template": [
+        {
+            "home": {
+                "banner": "http://via.placeholder.com/1220x450",
+                "title": "Home Page"
+            }
+        },
+        {
+            "about": {
+                "banner": "http://via.placeholder.com/1220x250",
+                "title": "About Page"
+            }
+        },
+        {
+            "service": {
+                "banner": "http://via.placeholder.com/1220x150",
+                "title": "Service Page"
+            }
+        }
+    ]
+}
